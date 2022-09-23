@@ -1,5 +1,9 @@
 This program requires at least .Net Framework 2.0 to run.
 
+Tested with Windows 10.
+Warning! This exe will modify a kernel function!
+Use at your own risk!
+
 ## Installation
 Copy the files to the game's directory.
 
